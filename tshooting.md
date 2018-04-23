@@ -45,5 +45,15 @@
 - curl 测试上层http/https
 - telnet 测试4层，传输层
 - ping/traceroute 测试3层，网络层
+- netstat查看Linux主机连接情况
+
+netstat -antp
+netstat -ntlp 
+ss -antp 
+ss -ntlp 
+需要root用户权限
+
+- whois/dig/nslookup
+查看域名解析情况
 
 
