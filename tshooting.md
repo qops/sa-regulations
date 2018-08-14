@@ -62,4 +62,6 @@ ss -ntlp
 #### whois/dig/nslookup
 查看域名解析情况
 
+#### syslog
+查看系统日志, `/var/log/*`
 
